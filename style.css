@@ -44,8 +44,8 @@ article .new_list .news_item{
     
 }
 article .new_list .news_item img{
-    width: 260px;
-    height: 260px;
+    height: 99%;
+    width: 99%;
     margin: 0 auto;
 
 }
